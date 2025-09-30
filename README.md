@@ -11,7 +11,7 @@
 
 
 ## Sobre mi
-Hola soy Jhonatan Rosales, egresado de la carrera de ingenieria civil
+👷 Hola soy Jhonatan Rosales, egresado de la carrera de ingenieria civil
 
 
 - ⭐ Github Star ⭐ 
