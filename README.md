@@ -52,7 +52,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Excavacion de pilotaje tipo manual</h3>
+<h3 align="center">EXCAVACIÓN DE PILOTES TIPO MANUAL</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
